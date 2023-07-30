@@ -1,0 +1,12 @@
+.allProduct > h1 {
+  text-align: center;
+}
+
+.allProduct > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+}
